@@ -1,0 +1,37 @@
+h1
+{
+    color: black;
+    font-size: 80pt;
+    font-family: "Brush Script MT", cursive;
+    margin-bottom: -10px;
+}
+
+.subheading
+{
+    font-style: italic;
+}
+
+table, th, td
+{
+    border: 1px solid;
+    padding: 8px;
+}
+
+th
+{
+    color: white;
+    background-color: #696969;
+    border: black;
+}
+
+tr:nth-child(even)
+{
+    background-color: #F0F0F0;
+}
+
+#reply
+{
+    font-size: large;
+    font-family: "Comic Sans MS", "Bradley Hand", cursive;
+    color: red;
+}
